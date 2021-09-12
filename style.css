@@ -1,0 +1,24 @@
+#heading
+{
+    text-align: center;
+    font-size: 80px;
+    font-style: italic;
+}
+
+body
+{
+    background-image: url(sky.jpeg);
+    
+}
+
+#name
+{
+    font-size: 40px;
+    font-style: oblique;
+}
+
+#para
+{
+    font-size: 30px;
+    font-style: unset;
+}
